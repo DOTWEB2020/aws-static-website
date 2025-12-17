@@ -23,14 +23,15 @@ User → CloudFront → S3 Bucket
 
 
  ## 🔗 Full Documentation & Demo
+
+ ### **👤** Author
+**Adeoye Emmanuel** - Solution Architect
+
 📚 Complete Project Documentation: [[Notion Page Link]](https://www.notion.so/Serverless-Web-Architecture-S3-CloudFront-Route-53-2acafa903f8a80f2aa95d8002e6e0cc4?source=copy_link) 
 
 🎥 Video Demonstration: [[Video Demo Link]](https://youtu.be/_OspwtqbCHg) 
 
 💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/aws-static-website)
 
-## Contact
--Name : Adeoye Emmanuel
--Email: Emmanuelofgrace@gmail.com
--GitHub: DOTWEB2020
+💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
