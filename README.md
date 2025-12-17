@@ -21,12 +21,6 @@ User → CloudFront → S3 Bucket
 - S3 URL: Check Terraform output
 - CloudFront URL: Check Terraform output
   
- ## **👤** Author
-**Adeoye Emmanuel** - Solution Architect
-
-**Email:** Emmanuelofgrace@gmail.com
-
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
 
  ## 🔗 Full Documentation & Demo
@@ -37,5 +31,12 @@ User → CloudFront → S3 Bucket
 🎥 Video Demonstration: [[Video Demo Link]](https://youtu.be/_OspwtqbCHg) 
 
 💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/aws-static-website)
+
+## **👤** Author
+**Adeoye Emmanuel** - Solution Architect
+
+**Email:** Emmanuelofgrace@gmail.com
+
+💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
 
