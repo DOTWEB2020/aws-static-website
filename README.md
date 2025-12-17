@@ -23,7 +23,9 @@ User → CloudFront → S3 Bucket
   
  ## **👤** Author
 **Adeoye Emmanuel** - Solution Architect
+
 **Email:** Emmanuelofgrace@gmail.com
+
 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
  ## 🔗 Full Documentation & Demo
@@ -35,5 +37,4 @@ User → CloudFront → S3 Bucket
 
 💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/aws-static-website)
 
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
