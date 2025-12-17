@@ -37,6 +37,6 @@ User → CloudFront → S3 Bucket
 
 **Email:** Emmanuelofgrace@gmail.com
 
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
+💼 LinkedIn: [[LinkedIn Profile]](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
 
