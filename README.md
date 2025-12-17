@@ -23,7 +23,8 @@ User → CloudFront → S3 Bucket
   
  ## **👤** Author
 **Adeoye Emmanuel** - Solution Architect
-
+**Email:** Emmanuelofgrace@gmail.com
+💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
 
  ## 🔗 Full Documentation & Demo
 
