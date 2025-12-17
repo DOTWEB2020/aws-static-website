@@ -20,12 +20,13 @@ User → CloudFront → S3 Bucket
 ## Website URLs
 - S3 URL: Check Terraform output
 - CloudFront URL: Check Terraform output
+  
+ ## **👤** Author
+**Adeoye Emmanuel** - Solution Architect
 
 
  ## 🔗 Full Documentation & Demo
 
- ### **👤** Author
-**Adeoye Emmanuel** - Solution Architect
 
 📚 Complete Project Documentation: [[Notion Page Link]](https://www.notion.so/Serverless-Web-Architecture-S3-CloudFront-Route-53-2acafa903f8a80f2aa95d8002e6e0cc4?source=copy_link) 
 
